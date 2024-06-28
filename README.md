@@ -30,7 +30,7 @@ To run the Tic-Tac-Toe Game locally, follow these steps:
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/tic-tac-toe.git
+    git clone https://github.com/omgupta7352/Tic-Tac-Toe.git
     ```
 
 2. **Navigate to the project directory:**
@@ -39,9 +39,6 @@ To run the Tic-Tac-Toe Game locally, follow these steps:
     cd tic-tac-toe
     ```
 
-3. **Open `index.html` in your web browser:**
-
-    You can open the file directly in your browser or use a local server like [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) for a better development experience.
 
 ## Usage
 
