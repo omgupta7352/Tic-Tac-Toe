@@ -21,7 +21,7 @@ Welcome to the Tic-Tac-Toe Game! This is a classic game built using HTML, CSS, a
 
 ## Demo
 
-You can try out the game live [here](https://example.com/tic-tac-toe).
+You can try out the game live [here](https://omgupta7352.github.io/Tic-Tac-Toe/).
 
 ## Installation
 
