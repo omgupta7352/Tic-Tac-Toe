@@ -1,4 +1,6 @@
 # Tic-Tac-Toe Game
+![Tic-Tac-Toe](tic-tac-toe.png)
+
 
 Welcome to the Tic-Tac-Toe Game! This is a classic game built using HTML, CSS, and JavaScript. The objective of the game is to get three of your marks in a row (horizontal, vertical, or diagonal) before your opponent does.
 
