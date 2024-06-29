@@ -38,7 +38,7 @@ To run the Tic-Tac-Toe Game locally, follow these steps:
 2. **Navigate to the project directory:**
 
     ```sh
-    cd tic-tac-toe
+    cd Tic-Tac-Toe
     ```
 
 
